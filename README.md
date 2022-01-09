@@ -1,5 +1,8 @@
 # Connecting Vehicles Using Blockchain
 
+A decentralized, privacy-preserving and secure blockchain-based network for the smart vehicle ecosystem in which incidents like accidents are automatically reported and voted upon by nearby vehicles for authenticity and stored on the blockchain maintained by all vehicles. A reputation system is maintained for the users based on the authenticity of reported incidents.
+
+
 ## Hardware & software required to run the project:
 *Hardware Requirements :-*
 * Raspberry Pi 3
